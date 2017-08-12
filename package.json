@@ -1,0 +1,25 @@
+{
+  "name": "dynamic_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/startup",
+  "scripts": {
+    "start": "node server/startup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveWooo/dynamicParser.git"
+  },
+  "author": "SteveWooo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SteveWooo/dynamicParser/issues"
+  },
+  "homepage": "https://github.com/SteveWooo/dynamicParser#readme",
+  "dependencies": {
+    "domain": "0.0.1",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "request": "^2.81.0"
+  }
+}
