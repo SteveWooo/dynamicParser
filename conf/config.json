@@ -5,6 +5,7 @@
 		"host" : "localhost",
         "user" : "root",
         "password" : "123456",
-        "database" : "dynamic_parser"
+        "database" : "dynamic_parser",
+	"demo" : 99
 	}
 }
