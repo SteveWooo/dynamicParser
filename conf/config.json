@@ -6,6 +6,6 @@
         "user" : "root",
         "password" : "123456",
         "database" : "dynamic_parser",
-	"demo" : 99
+	"demo" : 990
 	}
 }
